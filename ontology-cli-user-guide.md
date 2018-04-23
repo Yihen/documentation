@@ -52,7 +52,7 @@ hex address:    	 01cde971fcedd97fba7babd19516a6d90db1ed97
 base58 address: 	 TA8kMG3QZu37NmPNCPuP1xNPYbmiFTX973
 
 NOTE: 
-    If without wallet name, the default value wallet.dat will be used.
+If without wallet name, the default value wallet.dat will be used.
 ```
 
 ### Example for wallet balance
@@ -63,7 +63,7 @@ ONT: 1000000000; ONG: 0; ONGAppove: 0
 Address(base58): TA6VvtGekMfinP97CTL9SH5WTowChUungL
 
 NOTE: 
-    If without wallet name, the default value wallet.dat will be used.
+If without wallet name, the default value wallet.dat will be used.
 ```
 
 --- 
