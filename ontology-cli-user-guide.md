@@ -89,7 +89,7 @@ Command:
 ```
 $ ./ontology info version
 Result will show as follow:
-Node version:  653c
+Node version: 653c-dirty
 ```
 
 ### Example for info block (with height)
