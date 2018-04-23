@@ -1,11 +1,11 @@
 
-## Ontology CLI user guide
+## Ontology CLI User Guide
 
-- [CLI Wallet Command](#Ontology)
-- [CLI Info Show Command](#Ontology-wsam)
-- [CLI ASSET Command](#Ontology-crypto)
-- [CLI Setting Command](#Ontology-eventbus)
-- [CLI Contract Command](#Ontology-rpc-and-restful)
+- [CLI Wallet Command](#cli-wallet-cmd)
+- [CLI Info Show Command](#cli-info-show-cmd)
+- [CLI ASSET Command](#cli-asset-cmd)
+- [CLI Setting Command](#cli-setting-cmd)
+- [CLI Contract Command](#cli-contract-cmd)
 
 ```
 User can start ontology directly,by the command as follow:
@@ -16,7 +16,7 @@ $./ontology --help
 ```
 --- 
 
-## CLI Wallet Command
+## <a name="cli-wallet-cmd"></a> CLI Wallet Command
 
 ```
 Usage:
@@ -68,7 +68,7 @@ NOTE:
 
 --- 
 
-## CLI Info Show Command
+## <a name="cli-info-show-cmd"></a>CLI Info Show Command
 ```
 Usage:
     ontology info [command options] [args]
@@ -272,7 +272,7 @@ If a invalid value of transaction hash is given, the result will show as follow:
 ```
 ---
 
-## CLI Asset Command
+## <a name="cli-asset-cmd"></a> CLI Asset Command
 ```
 Usage:
     ontology asset [command options] [args]
@@ -333,7 +333,7 @@ Otherwise, the null value will given.
 
 ---
 
-## CLI Setting Command
+## <a name="cli-setting-cmd"></a> CLI Setting Command
 ```
 Usage:
     ontology set [command options] [args]
@@ -362,7 +362,7 @@ map[desc:SUCCESS error:0 id:0 jsonpc:2.0 result:true]
 ---
 
 
-## CLI Contract Command
+## <a name="cli-contract-cmd"></a> CLI Contract Command
 ```
 Usage:
     ontology contract [command options] [args]
