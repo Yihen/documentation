@@ -395,7 +395,7 @@ Deploy smartContract transaction hash: b68307e7659a53a10d3061a3e4721b5a152bd4e6e
 
 ### Example for contract invoke
 ```
-$ ././ontology contract invoke --caddr TA6VvtGekMfinP97CTL9SH5WTowChUungL --params contract-params-need
+$ ./ontology contract invoke --caddr TA6VvtGekMfinP97CTL9SH5WTowChUungL --params contract-params-need
 User need to input password, when invoke succeed, the result will show as follow:
 invoke transaction hash:64976014daec682f8e3a4fc62c26f4636ac7be6bd548f67f24f62211394f8923
 ```
